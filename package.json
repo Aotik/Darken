@@ -1,6 +1,6 @@
 {
 	"name": "Darken",
-	"version": "1.1.24",
+	"version": "1.0.0",
 	"description": "CDN downloader for Cindr.io",
 	"main": "gulpfile.js",
 	"scripts": {
