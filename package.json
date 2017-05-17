@@ -1,13 +1,13 @@
 {
-	"name": "blossom-boilerplate",
+	"name": "Darken",
 	"version": "1.1.24",
-	"description": "Blossom UI Static Boilerplate",
+	"description": "CDN downloader for Cindr.io",
 	"main": "gulpfile.js",
 	"scripts": {
 		"start": "gulp dev"
 	},
 	"author": "Stefan Mansson <st.mansson@icloud.com> (http://mansson.io)",
-	"repository": "https://github.com/Aotik/blossom-boilerplate",
+	"repository": "https://github.com/Aotik/Darken",
 	"license": "MIT",
 	"devDependencies": {
 		"browser-sync": "^2.18.8",
