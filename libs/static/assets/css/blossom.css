@@ -4160,11 +4160,11 @@ body {
   margin: 0;
   padding: 0;
   font-size: 100%;
-  background: url("/assets/images/noise.png"), -webkit-linear-gradient(75deg, #1f292f, #787ce2);
-  background: url("/assets/images/noise.png"), -moz-linear-gradient(75deg, #1f292f, #787ce2);
-  background: url("/assets/images/noise.png"), -o-linear-gradient(75deg, #1f292f, #787ce2);
-  background: url("/assets/images/noise.png"), -ms-linear-gradient(75deg, #1f292f, #787ce2);
-  background: url("/assets/images/noise.png"), linear-gradient(15deg, #1f292f, #787ce2);
+  background: -webkit-radial-gradient(#787ce2 -90%, #1e3352);
+  background: -moz-radial-gradient(#787ce2 -90%, #1e3352);
+  background: -o-radial-gradient(#787ce2 -90%, #1e3352);
+  background: -ms-radial-gradient(#787ce2 -90%, #1e3352);
+  background: radial-gradient(#787ce2 -90%, #1e3352);
 }
 .logo {
   display: block;
@@ -4209,12 +4209,12 @@ body {
   color: #fff;
 }
 #darken p {
-  color: #b6b8de;
+  color: #cacbe6;
   font-size: 1.2rem;
   line-height: 2rem;
 }
 #darken small {
-  color: #9298b5;
+  color: #a0a7ca;
   font-size: 1rem;
 }
 #darken .button-group {
